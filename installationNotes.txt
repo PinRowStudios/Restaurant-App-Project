@@ -1,0 +1,6 @@
+Za Windows 11
+Skinuti verziju sa narednog linka...
+https://sourceforge.net/projects/codeblocks/
+
+Neophodno je da se ispritišće samo dalje kako bi se instaliralo sve zajedno sa MINGW koji nam je compiler.
+
